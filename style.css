@@ -1,0 +1,29 @@
+h1{
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid;
+    font-size: 2rem;
+    background-color: aqua;
+}
+h2{
+    margin: 5px;
+    padding-top: 5px;
+    border: 5px solid;
+    font-size: 16px;
+    background-color: rgb(43, 226, 134);
+    text-align: right;
+}
+h3{
+    text-align: center;
+    background-color: gold;
+    padding: 20px 10px 5px 0px;
+    margin: 15px 5px;
+    border: 5px solid red;
+}
+h4{
+margin: 5px 5px;
+padding: 5px 5px;
+border:2px solid;
+font-size: xx-large;
+background-color: tomato;
+}
